@@ -42,9 +42,10 @@ There are a number of drawbacks to the current construction of the tool. One is 
 
 ### Recommendations for Improvement
 Several recommendations are submitted for consideration to improve the experience and enjoyment when using the tool.
-1.	Create a “Clear Fields” button placed near input fields.
-2.	Have pull-downs for city, state, country, and shape. This will limit searches to values actually in the list. 
-3.	Change placeholders to give clues to user. This change has already been made (to illustrate) so that the placeholders match the first item on the default list.  This provides user a visual cue as placeholder values match something user sees in default list. 
-4.	Add filter for Duration using "less than" and "greater than" for time duration in minutes.  
-5.	Filters are AND. Create an option to change to OR.
+1.	Clean Duration data which currently includes misspellings and inconsistent formats (e.g., 1 minute vs. one minute). 
+2.	Create a “Clear Fields” button placed near input fields.
+3.	Have pull-downs for city, state, country, and shape. This will limit searches to values actually in the list. 
+4.	Change placeholders to give clues to user. This change has already been made (to illustrate) so that the placeholders match the first item on the default list.  This provides user a visual cue as placeholder values match something user sees in default list. 
+5.	Add filter for Duration using "less than" and "greater than" for time duration in minutes.  
+6.	Filters are AND. Create an option to change to OR.
 
