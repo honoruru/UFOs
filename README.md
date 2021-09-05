@@ -29,15 +29,15 @@ The search tool can be used following the instructions below:
 
 
 4.	No entries will return the entire list.
-5.	Filters are AND not OR, i.e., items returned on list must satisfy all criteria input.
+5.	Filters are AND, not OR, i.e., items returned on list must satisfy all criteria input.
 6.	To clear field value, entry must be deleted.
-7.	Alternatively, to delete all field inputs (i.e., quick reset) hit “UFO Sightings” to reset values to defaults and return to top of page
+7.	Alternatively, hit “UFO Sightings” to reset values (i.e., quick reset) to defaults and return to top of page.
 
 ## Summary
 
 ### Drawback 
 
-There are a number of drawbacks to the current construction of the tool. One is that the input fields are prone to futile searches some of which could be simply due to misspelling or formatting (e.g., CA doesn’t satisfy ca).
+There are a number of drawbacks to the current construction of the tool. One is that the input fields layout are prone to lead to futile searches, some of which could be due simply to misspelling or formatting (e.g., "CA" does not satisfy "ca" for state input).
 
 
 ### Recommendations for Improvement
