@@ -25,6 +25,8 @@ The search tool can be used following the instructions below:
 
 3.	Example of search on 1/1/20 with default values for all other fields.
  
+ <img src="https://github.com/honoruru/UFOs/blob/main/Challenge%20Images/page%20image.PNG" width="600" height="600"/>
+
 
 4.	No entries will return the entire list.
 5.	Filters are AND not OR, i.e., items returned on list must satisfy all criteria input.
