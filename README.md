@@ -21,7 +21,7 @@ The search tool can be used following the instructions below:
 
 2.	Enter values for one or more filters 
 
- 
+ <img src="https://github.com/honoruru/UFOs/blob/main/Challenge%20Images/Menu%20image2.png" width="200" height="600"/>
 
 3.	Example of search on 1/1/20 with default values for all other fields.
  
