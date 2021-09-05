@@ -13,7 +13,11 @@ The search tool can be used following the instructions below:
 
 1.	Hit “UFO Sightings”
 
+ <img src="https://github.com/honoruru/UFOs/blob/main/Challenge%20Images/top%20image2.png" width="100" height="80"/>
+
+/<p align="center">
  
+/</p>
 
 2.	Enter values for one or more filters 
 
